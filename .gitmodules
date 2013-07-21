@@ -1,3 +1,27 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = http://github.com/scrooloose/nerdtree.git
+[submodule "colors/getafe"]
+	path = colors/getafe
+	url = https://github.com/larssmit/vim-getafe
+[submodule "colors/github"]
+	path = colors/github
+	url = https://github.com/telamon/vim-color-github
+[submodule "colors/irblack"]
+	path = colors/irblack
+	url = https://github.com/twerth/ir_black
+[submodule "colors/molokai"]
+	path = colors/molokai
+	url = https://github.com/vim-scripts/molokai
+[submodule "colors/pyte"]
+	path = colors/pyte
+	url = https://github.com/vim-scripts/pyte
+[submodule "colors/solarized"]
+	path = colors/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "colors/vividchalk"]
+	path = colors/vividchalk
+	url = https://github.com/tpope/vim-vividchalk
+[submodule "colors/sampler-pack"]
+	path = colors/sampler-pack
+	url = https://github.com/vim-scripts/Colour-Sampler-Pack
